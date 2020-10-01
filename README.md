@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/miladnouriezade/miladnouriezade/miladnourizade/header.jpeg "Header")]
+[![Header](https://raw.githubusercontent.com/miladnouriezade/miladnouriezade/header.jpeg "Header")]
 
 ### Hi there 👋
 
