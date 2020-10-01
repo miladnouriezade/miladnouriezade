@@ -1,4 +1,4 @@
-# [![ Milad Nourizad's Header](https://github.com/miladnouriezade/miladnouriezade/blob/master/header.jpeg)]
+# ![ Milad Nourizad's Header](https://github.com/miladnouriezade/miladnouriezade/blob/master/header.jpeg)
 
 ### Hi there 👋
 
